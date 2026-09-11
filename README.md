@@ -71,7 +71,7 @@
 ## 📫 Connect With Me
 
 - 📧 Email: saikoushik0807@gmail.com
-- 💼 LinkedIn: Add your LinkedIn profile here
+- 💼 LinkedIn: [Sai Koushik](https://www.linkedin.com/in/yelgaskanpetsaikoushik87/)
 - 💻 GitHub: [@08Koushik](https://github.com/08Koushik)
 
 ---
